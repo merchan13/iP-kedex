@@ -1,0 +1,6 @@
+framework module Pods_iPokedexTests {
+  umbrella header "Pods-iPokedexTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
